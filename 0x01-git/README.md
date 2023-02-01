@@ -1,1 +1,1 @@
-ALX coding projects directories and files
+ALX coding project directories and files
