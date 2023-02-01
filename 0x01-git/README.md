@@ -1,1 +1,1 @@
-I love everything that has to do with coding
+ALX coding project directories and files
